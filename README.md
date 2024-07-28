@@ -2,8 +2,8 @@
 
 This repo contains two projects:
 
-- Cone Detection: to be used in Formula SAE Driverless
-- Traffic Footage Tracker: to be used in smart cities cameras
+- Cone Detection Notebook: to be used in Formula SAE Driverless
+- Traffic Footage Tracker Notebook: to be used in smart cities cameras
 
 - There is a paper-like PDF document for the cone detection project.
 
